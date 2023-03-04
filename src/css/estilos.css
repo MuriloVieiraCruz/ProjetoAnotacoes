@@ -18,7 +18,7 @@ body {
     height: 97vh;
 }
 
-.position {
+.header {
     display: flex;
     justify-content: center;
     align-items: center;
